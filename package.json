@@ -1,0 +1,25 @@
+{
+  "name": "nightmare-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "cyablon",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "fuzzysearch": "^1.0.3",
+    "hoek": "^4.0.1",
+    "nightmare": "^2.5.3"
+  }
+}
